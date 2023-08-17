@@ -1,0 +1,22 @@
+{
+  "name": "paises_api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fastify/cookie": "^9.0.4",
+    "@fastify/cors": "^8.3.0",
+    "axios": "^1.4.0",
+    "bcrypt": "^5.1.1",
+    "dotenv": "^16.3.1",
+    "fastify": "^4.21.0",
+    "jsonwebtoken": "^9.0.1"
+  }
+}

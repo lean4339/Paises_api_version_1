@@ -1,0 +1,8 @@
+PORT=3030
+
+#External api 
+ALL_COUNTRIES=http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso/ListOfCountryNamesByName/JSON/debug?
+COUNTRY=http://webservices.oorsprong.org/websamples.countryinfo/CountryInfoService.wso/FullCountryInfo/JSON/debug
+
+
+ENDPOINT_ALL_COUNTRIES=http://localhost:3030/
